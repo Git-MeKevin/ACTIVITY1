@@ -24,4 +24,5 @@ $user_data = $stmt->fetch(PDO::FETCH_ASSOC);
     <button><a href="authentication/admin-class.php?admin_signout">SIGN OUT</a></button>
     <link rel="stylesheet" href="welcome.css">
 </body>
+
 </html>

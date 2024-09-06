@@ -145,5 +145,4 @@ if(isset($_GET['admin_signout']))
     $adminSignout = new ADMIN();
     $adminSignout->adminSignOut();
 }
-
 ?>

@@ -1,5 +1,9 @@
 body {
     font-family: Arial, sans-serif;
+    background-image: url('src/img/bg.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
     background-color: #f5f5f5;
     margin: 0;
     padding: 0;
@@ -23,7 +27,7 @@ h1 {
     font-size: 25px;
     margin-bottom: 22px;
     text-align: center;
-    color: #333
+    color: #333;
 }
 
 form {
