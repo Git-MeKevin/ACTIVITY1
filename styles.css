@@ -47,7 +47,7 @@ input {
 
 button {
     padding: 10px;
-    background-color: #13ff62;
+    background-color: #007fc3;
     border: none;
     border-radius: 5px;
     color: white;
@@ -56,7 +56,7 @@ button {
 }
 
 button:hover {
-    background-color: #13ff62;
+    background-color: #007fc3;
 }
 
 .container h1:first-of-type {
